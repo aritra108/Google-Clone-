@@ -11,6 +11,9 @@
 # next.js
 /.next/
 /out/
+/keys.js
+/takeaways.txt
+/response.js
 
 # production
 /build
