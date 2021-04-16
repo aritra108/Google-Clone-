@@ -12,7 +12,6 @@
 /.next/
 /out/
 /takeaways.txt
-/response.js
 
 # production
 /build
